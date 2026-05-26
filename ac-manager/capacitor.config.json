@@ -1,0 +1,21 @@
+{
+  "appId": "com.acmanager.app",
+  "appName": "冷氣安裝管理",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "buildOptions": {
+      "keystorePath": null,
+      "keystoreAlias": null
+    }
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 2000,
+      "backgroundColor": "#0f1f3d",
+      "showSpinner": false
+    }
+  }
+}
